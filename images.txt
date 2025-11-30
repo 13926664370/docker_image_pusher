@@ -14,8 +14,8 @@ redis:6
 valkey/valkey:8
 minio/minio
 
-pythonstock/stock
-sqlalchemy:2.0.36
-akshare:1.15.59
-bokeh:3.6.2
-stockstats:0.3.2
+#pythonstock/stock
+#sqlalchemy:2.0.36
+#akshare:1.15.59
+#bokeh:3.6.2
+#stockstats:0.3.2
